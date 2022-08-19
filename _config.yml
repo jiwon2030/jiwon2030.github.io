@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jiwon5568@gmail.com"
-  github: "https://github.com/jiwon2030"
+  github: https://github.com/jiwon2030
   instagram: j_ji23
   discord: 민지원#9611
 

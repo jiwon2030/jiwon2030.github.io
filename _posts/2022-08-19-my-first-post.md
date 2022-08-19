@@ -7,9 +7,6 @@ categories:
 tags:
   - [Blog, jekyll, Github, Git]
 
-toc: true
-toc_sticky: true
- 
 date: 2022-08-19
 last_modified_at: 2022-08-20
 ---

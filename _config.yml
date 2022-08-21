@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Categores:
     - note: "https://jiwon2030.github.io/2022-08-19-my-first-post/"
-    - Github: "https://www.markdowntutorial.com/"
+    - node.js: "https://www.markdowntutorial.com/"
   Github: "https://github.com/jiwon2030"
 
 ################

@@ -10,7 +10,7 @@ date: 2022-08-22
 last_modified_at: 2022-08-22
 ---
 
-### Nomadcoder node.js zoom 클론 강의 server setup 에러
+### Nomadcoder node.js zoom 클론 강의 Frontend Setup 에러
 
 ##### **1. 사용하고 있는 포트 에러**
 ![EADDRINUSE](https://user-images.githubusercontent.com/49359846/185800490-ebc38565-bffe-4bcd-add9-bb95a34fc598.PNG)
@@ -19,7 +19,7 @@ last_modified_at: 2022-08-22
 ######           2) 포트를 강제로 죽여준다.
 ![image](https://user-images.githubusercontent.com/49359846/185805567-595c0aaf-69c9-45cb-bab5-85d769e0382a.png)
 ###### **netstat -ano \ findstr 포트 넘버**
-###### **taskkill /f /pid 해당pid**
+###### **taskkill /f /pid 해당 pid**
 
 ###### -> 참조 https://seomile.tistory.com/91 
 

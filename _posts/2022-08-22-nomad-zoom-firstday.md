@@ -12,6 +12,7 @@ last_modified_at: 2022-08-22
 
 ### Nomadcoder node.js zoom 클론 강의 Frontend Setup 에러
 
+
 ##### **1. 사용하고 있는 포트 에러**
 ![EADDRINUSE](https://user-images.githubusercontent.com/49359846/185800490-ebc38565-bffe-4bcd-add9-bb95a34fc598.PNG)
 ###### **Error 코드: EADDRINUSE**
@@ -22,6 +23,7 @@ last_modified_at: 2022-08-22
 ###### **taskkill /f /pid 해당 pid**
 
 ###### -> 참조 https://seomile.tistory.com/91 
+
 
 ##### **2. 모듈 설치 안됨**
 ![image](https://user-images.githubusercontent.com/49359846/185805691-ae89aed3-02f4-4a4f-a23c-f449b2701869.png)

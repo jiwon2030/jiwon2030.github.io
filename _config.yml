@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Categores:
     - note: "https://jiwon2030.github.io/2022-08-19-my-first-post/"
-    - node.js: "https://jiwon2030.github.io/2022-08-22-nomad-zoom-firstday.md"
+    - node.js: "https://jiwon2030.github.io/2022-08-22-nomad-zoom-firstday/"
   Github: "https://github.com/jiwon2030"
 
 ################
@@ -49,10 +49,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jiwon5568@gmail.com"
+  email: jiwon5568@gmail.com
   github: jiwon2030
   instagram: j_ji23
-  discord: 민지원#9611
+  discord: jiwon5568@nate.com
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml

@@ -40,4 +40,3 @@ last_modified_at: 2022-08-25
 <<<<<<< HEAD
 ![image](https://user-images.githubusercontent.com/49359846/186481614-146350a6-7b18-47de-a6e3-e63026a74825.png)
 ###### [출처] 강의 Comments 중 ayyan님 댓글
-=======

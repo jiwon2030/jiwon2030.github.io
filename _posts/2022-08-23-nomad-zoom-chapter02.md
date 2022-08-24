@@ -7,7 +7,7 @@ categories:
 tags: Blog, node.js, nomadcoder, clone, zoom
 
 date: 2022-08-23
-last_modified_at: 2022-08-23
+last_modified_at: 2022-08-25
 ---
 
 ### Nomadcoder node.js zoom 클론 강의 Chapter02. SocketIO
@@ -35,5 +35,6 @@ last_modified_at: 2022-08-23
 ###### - websocket보다 탄력성이 뛰어남
 
 #### 2. 강의 내용(Installing SocketIO) 중 버전 차이로 인한 오류
-
+![image](https://user-images.githubusercontent.com/49359846/186481288-55c94901-71d5-470a-a299-6aac86175620.png)
 ###### SocketIO의 버전 차이로 인한 오류가 났다면 다음과 같이 수정해주면 된다.
+

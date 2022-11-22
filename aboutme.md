@@ -8,6 +8,6 @@ subtitle: Do you want to know about me?
 
 - Name: Jiwon Min
 - E-mail: jiwon5568@gmail.com & sunk2030@naver.com
-- Front-end developer
+- Android developer
 
 <img src="https://user-images.githubusercontent.com/49359846/185673077-4d1ecebb-1bb3-46dd-ae3c-abb886ee70dc.jpg" height="400px" width="300px">
